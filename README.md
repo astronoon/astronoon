@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @astronoon
-- 👀 I’m interested in learn new things
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning python
 - 😄 Pronouns: she/her
 
